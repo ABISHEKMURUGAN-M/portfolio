@@ -25,6 +25,6 @@ https://abishekmurugan-m.github.io/portfolio/
 2. Open `index.html` in your browser.
 
 ## 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
+- LinkedIn: https://www.linkedin.com/in/abishek-murugan-36553841b/
 - GitHub: https://github.com/ABISHEKMURUGAN-M
-- Email: your-email@example.com
+- Email: abishekmurguan2006@.com
